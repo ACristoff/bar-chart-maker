@@ -2,19 +2,23 @@
 /* this is a test */
 
 .barChartOuterContainer {
-width: 50%;
-margin: auto;
+  width: 50%;
+  margin: auto;
 }
 
+.barChartName {
+  width:7%;
+  display: inline-block;
+}
 
 #stack1 {
   background-color: midnightblue;
   display: inline-block;
-  width:60%;
+  width:50%;
 }
 
 #stack2 {
   background-color: palegreen;
   display: inline-block;
-  width:30%;
+  width:25%;
 }
