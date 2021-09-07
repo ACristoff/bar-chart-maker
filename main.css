@@ -10,9 +10,11 @@ margin: auto;
 #stack1 {
   background-color: midnightblue;
   display: inline-block;
+  width:60%;
 }
 
 #stack2 {
   background-color: palegreen;
   display: inline-block;
+  width:30%;
 }
