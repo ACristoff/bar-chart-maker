@@ -6,9 +6,32 @@
   margin: auto;
 }
 
+.ticker {
+  display: inline-block;
+}
+
+#ticker1 {
+  position:relative;
+  left:20%;
+}
+
+#ticker2 {
+  position:relative;
+  left:40%;
+}
+
+#ticker3 {
+  position:relative;
+  left:60%;
+}
+
 .barChartName {
   width:7%;
   display: inline-block;
+}
+
+.barChartAxis {
+  font-size: 24pt;
 }
 
 #stack1 {
