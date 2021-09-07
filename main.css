@@ -1,6 +1,12 @@
 /* hello world */
 /* this is a test */
 
+.barChartOuterContainer {
+width: 70%;
+
+}
+
+
 #stack1 {
   background-color: midnightblue;
 }
